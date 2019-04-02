@@ -1,2 +1,2 @@
 # Django-Stuff
-A collection of snippets I've made in various projects.
+A collection of snippets from various projects.
